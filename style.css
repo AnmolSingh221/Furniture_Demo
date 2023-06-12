@@ -1,0 +1,443 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    
+    
+}
+
+.line-1{
+    background-color: #5E606C;
+    width: 100%;
+    height: 100px;
+}
+.line-1 h1{
+    color: white;
+    position: relative;
+    left: 150px;
+    font-family: 'Ubuntu', sans-serif;
+}
+.line-1 hr{
+    margin: 0px 150px 0px 150px;
+}
+.line-1 div{
+    position: relative;
+     left: 860px;
+    bottom: 43px;
+    margin-right:12px ;
+    color: white;
+}
+span{
+    font-family: 'Ubuntu', sans-serif;
+}
+.nav ul{
+    list-style: none;
+    display: flex;
+    position: relative;
+    top: 32px;
+    right: 730px;
+    text-align: center;
+    font-size: 21px;
+    
+}
+.nav ul a{
+    text-decoration: none;
+    color: white;
+    margin: 0px 18px;
+    font-family: 'Ubuntu', sans-serif;
+}
+.nav ul a:hover{
+    
+    color: white;
+    text-decoration: underline;
+    
+    font-family: 'Ubuntu', sans-serif;
+}
+.line-2{
+    background: url(Line2.jpg) no-repeat;
+    background-size: 100% 100%;
+     width: 100%;
+    height: 600px
+}
+.line-2{
+    
+    text-align: center;
+}
+.line-2 h1{
+    position: relative;
+    top: 89px;
+    font-size: 50px;
+    font-family: 'Ubuntu', sans-serif;
+}
+.line-2 p{
+    position: relative;
+    top: 95px;
+    font-size: 20px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.line-3{
+    /* background-color: #F0F0F0; */
+    width: 100%;
+    height: 600px;
+    display: flex;
+    background: url(line3.jpg) no-repeat center center/cover;
+    background-size: 100% 100%;
+
+}
+.line-3 h1{
+    margin-left: 80px;
+    position: relative;
+    top: 50px;
+    font-family: 'Ubuntu', sans-serif;
+}
+.line3-1{
+    position: relative;
+    top: 57px;
+    width: 432px;
+    height: 528px;
+    margin-left: 90px;
+    /* border: 2px solid black; */
+}
+.line3-1 span{
+    text-align: center;
+    font-weight: 900;
+    font-size: 35px;
+    font-family: 'Ubuntu', sans-serif;
+}
+.line3-1 p{
+    
+    font-size: 17px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.line3-2{
+    position: relative;
+    top: 130px;
+    width: 432px;
+    height: 528px;
+    margin-left: 58px;
+/* border: 2px solid black; */
+}
+.line3-2 span{
+    font-weight: 900;
+    font-size: 25px;
+}
+.line3-2 p{
+    font-size: 17px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+
+
+.line-4{
+    background-color:#C3C4BE;
+    width: 100%;
+    height: 600px;
+
+}
+.line-4 h1{
+    position: relative;
+    top: 30px;
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+}
+.division-1{
+    display: flex;
+    justify-content: center;
+} 
+ .line-4-1{
+    background: url(line4-3.png)no-repeat center center/cover ;
+    position: relative;
+    top: 74px;
+    border: 2px solid;
+    height: 198px;
+    width: 284px;
+    left: 90px;
+    margin-right: 60px;
+    margin-bottom: 12px;
+
+}
+.line-4-1 span{
+    font-weight: 500;
+    font-size: 25px;
+    position: absolute;
+    right: 0px;
+    bottom: 34px;
+}
+.line-4-1 p{
+    font-size: 17px;
+ 
+    position: absolute;
+    right: 0px;
+    bottom: 15px;
+}
+.line-4-2{
+    background: url(line4-2.jpg) no-repeat center center/cover;
+    position: relative;
+    top: 74px;
+    border: 2px solid;
+    height: 198px;
+    width: 284px;
+    left: 90px;
+    margin-right: 60px;
+}
+
+.line-4-3{
+    background: url(line4-1.webp)no-repeat center center/cover;
+    position: relative;
+    top: 74px;
+    border: 2px solid;
+    height: 198px;
+    width: 284px;
+    left: 90px;
+    margin-right: 60px;
+}
+.division-2{
+    display: flex;
+    justify-content: center;
+    padding: 12px;
+
+}
+.line-4-4{
+    background: url(line4-4.jpg)no-repeat center center/cover;
+    position: relative;
+    top: 74px;
+    border: 2px solid;
+    height: 198px;
+    width: 284px;
+    left: 90px;
+    margin-right: 60px;
+}
+.line-4-5{
+    background: url(line4-5.webp)no-repeat center center/cover;
+    position: relative;
+    top: 74px;
+    border: 2px solid;
+    height: 198px;
+    width: 284px;
+    left: 90px;
+    margin-right: 60px;
+}
+.line-4-6{
+    background: url(line4-6.jpg)no-repeat center center/cover;
+    position: relative;
+    top: 74px;
+    border: 2px solid;
+    height: 198px;
+    width: 284px;
+    left: 90px;
+    margin-right: 60px;
+
+}
+
+
+.line-5{
+    background-color: #5E606C;
+    width: 100%;
+    height: 200px;
+    
+    display: flex;
+    justify-content: center;
+    
+}
+.line-5 p{
+    font-size: 23px;
+    
+}
+.line-5 span{
+    position: relative;
+    left: 12px;
+}
+.vertical{
+    position: relative;
+    left: 12px;
+    border-left: 1px solid black;
+    height: 30px;
+}
+
+.line-5-1{
+
+    position: relative;
+    top: 40px;
+    margin-right: 250px;
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
+    left: 85px;
+    font-size: 35px;
+}
+
+.line-5-2{
+
+    position: relative;
+    top: 40px;
+    margin-right: 250px;
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
+    left: 85px;
+    font-size: 35px;
+}
+
+.line-5-3{
+
+    position: relative;
+    top: 40px;
+    margin-right: 250px;
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
+    left: 85px;
+    font-size: 35px;
+}
+
+
+.line-6{
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    height: 200px
+}
+.line-6 h1{
+text-align: center;
+position: relative;
+top: 75px;
+font-family: 'Ubuntu', sans-serif;
+font-size: 44px;
+
+}
+
+.line-7{
+    background:url(line7.png)no-repeat center center/cover;
+    background-size: 100% 100%;
+    width: 100%;
+    height: 200px
+}
+.line-7 h1{
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    position: relative;
+    top: 30px;
+    font-size: 50px;
+    color: #5E606C;
+    text-shadow: 2px 2px #010101;
+}
+
+.line-8{
+
+    background-color: #D7D8D2;
+    
+    width: 100%;
+    height: 700px
+}
+
+.spanss{
+    font-weight: 800;
+    font-size: 46px;
+    
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 60px;
+}
+
+.line-8-flex{
+ display: flex;
+ justify-content: center;
+ position: relative;
+ top: 125px;
+ 
+}
+.linediv1{
+    /* border: 2px solid black; */
+    width: 410px;
+    height: 450px;
+    margin: 0px 46px;
+}
+ .linediv2{
+    /* border: 2px solid black; */
+    width: 410px;
+    height: 450px;
+    margin: 0px 46px;
+}
+
+.linediv1-1{
+background: url(line8-1.jpg)no-repeat center center/cover;
+width: 410px;
+height: 225px;
+}
+
+.linediv2-1{
+    background: url(line8-2.jpg)no-repeat center center/cover;
+width: 410px;
+height: 225px;
+}
+.linediv1-1_1 span{
+    
+    font-size: 23px;
+
+}
+.linediv1-1_1 p{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 16px;
+
+}
+.linediv2-1_1 span{
+    
+    font-size: 23px;
+
+}
+.linediv2-1_1 p{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 16px;
+
+}
+
+.line-9{
+    background-color: #5E606C;
+    width: 100%;
+    height: 200px;
+    display: flex;
+}
+.line9-1{
+    /* border: 2px solid black; */
+    background: url(line9-1.jpg)no-repeat center center/cover;
+    width: 250px;
+    height: 200px;
+}
+.line9-2{
+    /* border: 2px solid black; */
+    background: url(Line9-2.webp)no-repeat center center/cover;
+    width: 300px;
+    height: 200px;
+}
+.line9-3{
+    /* border: 2px solid black; */
+    background: url(Line9-3.jpg)no-repeat center center/cover;
+    width: 200px;
+    height: 200px;
+}
+.line9-4{
+    /* border: 2px solid black; */
+    background: url(Line9-4.jpg)no-repeat center center/cover;
+    width: 200px;
+    height: 200px;
+}
+.line9-5{
+    /* border: 2px solid black; */
+    background: url(Line9-5.jpg)no-repeat center center/cover;
+    width: 200px;
+    height: 200px;
+}
+.line9-6{
+    /* border: 2px solid black; */
+    background: url(Line9-6.jpg)no-repeat center center/cover;
+    width: 200px;
+    height: 200px;
+}
+
+.line-10{
+    background-color: #5E606C;
+    height: 20px ;
+    width: 100%;
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+    font-size: 16px;
+
+}
